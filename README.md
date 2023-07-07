@@ -1,13 +1,19 @@
 # Actor's Theater Work
 
   
-***
+
 
 ## Introduction
 
 The Flatiron Theater Company is holding auditions!
 
 An Actor may `Audition` for many `Roles`, while a `Role` may have many `Auditions` for it & many `Actors` through Auditions!
+
+## Setup
+
+`pipenv install` will make sure we have ipdb included in our environment.  
+`pipenv shell` allows us access to that environment.  
+
 
 &nbsp;
 
@@ -37,7 +43,7 @@ An Actor may `Audition` for many `Roles`, while a `Role` may have many `Audition
 
 - Through this `debug.py` file, we've provided to you a console that you can use to test your code. To enter a console session, run `python debug.py` from the command line. You'll be able to test out the functionality that you write there.
 
----
+
 
 ## Audition
 
